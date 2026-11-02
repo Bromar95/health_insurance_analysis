@@ -93,6 +93,10 @@ Building this project strengthened my skills in:
 
 This project helped me build a full Python analysis workflow, from loading raw data to sharing findings. It shows how a few simple charts can explain what drives healthcare costs.
 
+## 🔗 Related Link
+
+[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7523136274442989569/)
+
 ## 👨‍💻 Author
 
 **Omar Shazley**: Data Analyst | Python, Excel, SQL, and healthcare data analytics
