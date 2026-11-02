@@ -97,7 +97,7 @@ This project helped me build a full Python analysis workflow, from loading raw d
 
 **Omar Shazley**: Data Analyst | Python, Excel, SQL, and healthcare data analytics
 
-💼 [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)<br>
+💼 [LinkedIn](https://www.linkedin.com/in/omar-shazley-914a16b1/)<br>
 📧 Email: [omarshazley@gmail.com](mailto:omarshazley@gmail.com)
 
 ✨ If you like this project, don't forget to ⭐ star the repo!
